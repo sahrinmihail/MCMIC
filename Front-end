@@ -1,0 +1,11 @@
+Front-end
+In a first terminal:
+
+# Go to frontend folder
+cd front
+
+# Install dependencies
+yarn 
+
+# Start front
+yarn start
